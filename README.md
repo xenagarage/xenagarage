@@ -1,11 +1,12 @@
 
 ### hi folks, it's xena here👋
-- 🌱 my current studies are based on Computer Vision.
-- :floppy_disk: to access my recorded learning journey:  [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xenatech)
+my current studies are based on Computer Vision.
 
-- :floppy_disk: to check my Kaggle notebooks:  [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+to access my recorded learning journey:  [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xenatech)
+
+to check my Kaggle notebooks:  [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 )](https://www.kaggle.com/xenagarage)
 
-- :floppy_disk: to contact:   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senanursahin/?locale=en_US) 
+to contact:   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senanursahin/?locale=en_US) 
 
 
