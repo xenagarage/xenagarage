@@ -1,5 +1,5 @@
 
-### heyy, thanks for stopping by. I would like to gift you the song Ringo by Joris Voorn
+### heyy, thanks for stopping by! I'd like to gift you the song ringo by joris voorn for your visit..
 
 it's Xena here👋
 my current studies are mainly based on Computer Vision.
