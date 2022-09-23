@@ -2,8 +2,11 @@
 ### heyy, thanks for stopping by! I'd like to gift you the song ringo by joris voorn for your visit..
 
 it's Xena here👋
+
+
 my current studies are mainly based on Computer Vision.
-but I curate notes on Python|DataAnalysis|ML|ProgrammingAlgorithms
+
+but I curate notes on Python | DataAnalysis | ML | ProgrammingAlgorithms
 
 it might seem messy but I assure you that you'd find quality material of what you're looking for, so cheers to that!🎉
 
