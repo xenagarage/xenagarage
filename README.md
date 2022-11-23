@@ -8,6 +8,8 @@ I curate notes on Python | Data Science |  ML | Traditional Programming Algorith
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xenagarage)
 [![dolylupec](https://road-to-kaggle-grandmaster.vercel.app/api/simple/dolylupec)](https://www.kaggle.com/xenagarage)
+[![General badge](https://img.shields.io/badge/github.io-XenaGarageOpenSourceBlog-<COLOR>.svg)](https://xenagarage.github.io)
+
 
 
 ### to contact moi :   
