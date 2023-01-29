@@ -1,6 +1,9 @@
 
 # hi, xena here👋
 I'm an Electronic Engineer working as an AI Practitioner.
+I'm broadly interested in Computer Vision, Deep Learning, and Autonomous Systems.
+
+I have 1+ years of official working experience, I'm a self-learner yet I prefer being a part of a team.
 I curate notes on Python | Data Science |  ML | Traditional Programming Algorithms
 
 
@@ -12,11 +15,11 @@ I curate notes on Python | Data Science |  ML | Traditional Programming Algorith
 
 
 
-# my tech stack is
+# my tech stack in terms of,
 - Languages: Python, C++
 - Computer Vision: TensorFlow, Pytorch, Scikit-learn
 - Data Science: Pandas, Numpy, Matplotlib, Seaborn
-- Other: Docker, TensorBoard
+- Environment+Other Tools: Anaconda, AWS, Azure, Docker, SQL, TensorBoard
 
 
 ## to contact moi :   
