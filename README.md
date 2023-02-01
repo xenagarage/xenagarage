@@ -11,7 +11,7 @@ I curate notes on Python | Data Science |  ML | Traditional Programming Algorith
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xenagarage)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/xenagarage)
-[![General badge](https://img.shields.io/badge/github.io-XenaGarageOpenSourceBlog-<COLOR>.svg)](https://xenagarage.github.io)
+
 
 
 
