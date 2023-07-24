@@ -1,6 +1,7 @@
 
 # hi, I'm xena 👋 
-I'm an Electronic Engineer working as an AI Practitioner, broadly interested in Computer Vision, Deep Learning, and Autonomous Systems. I curate notes on Python | Data Science |  AI-ML | Algorithms
+Quick note before you start reading, I have archived all previos repo's to have a clean start. The 2 educational ones are still up. 
+I'm an Electronic Engineer working as an AI Practitioner, broadly interested in Computer Vision, Deep Learning, and Autonomous Systems. I curate notes on Python | Data Science | Traditional Algorithms
 
 ## could be found at : 
 
@@ -14,7 +15,7 @@ I'm an Electronic Engineer working as an AI Practitioner, broadly interested in 
 - Languages: Python
 - Computer Vision: TensorFlow, Pytorch, Scikit-learn
 - Data Science: Pandas, Numpy, Matplotlib, Seaborn
-- Environment+Other Tools: Anaconda, AWS, Docker, SQL, TensorBoard
+- Environment+Other Tools: Anaconda, Azure, Docker, SQL, TensorBoard
 
 
 ## to contact me :   
