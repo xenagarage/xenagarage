@@ -1,6 +1,8 @@
 
 # hi, I'm xena 👋 
-Quick note before you start reading, I have archived all previos repo's to have a clean start. The 2 educational ones are still up. 
+everything's archived, will be back Aug'23
+
+
 I'm an Electronic Engineer working as an AI Practitioner, broadly interested in Computer Vision, Deep Learning, and Autonomous Systems. I curate notes on Python | Data Science | Traditional Algorithms
 
 ## could be found at : 
