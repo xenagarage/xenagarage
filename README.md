@@ -1,6 +1,6 @@
 
 - 👋 Hi, I'm Xena 
-- 👇 I'm a Data Science MSc student at Prague, I curate notes about AI-ML & Traditional Algorithms with Python
+- 👇 I'm a Data and Analytics Developer pursuing Data Science MSc right now, I curate notes about AI-ML Algorithms with Python
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/xenagarage)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xenagarage)
