@@ -1,4 +1,4 @@
-RIP look who didn't updated her personal Github and has only cool stats on her work accounts
+My stats look better on my work accounts :')
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/xenagarage)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xenagarage)
